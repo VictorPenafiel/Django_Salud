@@ -1,1 +1,0 @@
-web: gunicorn onlyflans.wsgi --log-file -
